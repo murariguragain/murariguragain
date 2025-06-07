@@ -18,8 +18,8 @@
   Using MySQL database
 
 - **[Cancer Prediction](https://github.com/murariguragain/ThyroidCancerPrediction)**  
-  Machine Learning algorithms based model fro cancer prediction
+  Machine Learning algorithms based model for cancer prediction
 
 ### 📬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/murariguragain/) | 📬 Email me at: [murariguragain@gmail.com](mailto:murariguragain@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/murariguragain/) | 📬 Email me at: (mailto:murariguragain@gmail.com)
 
