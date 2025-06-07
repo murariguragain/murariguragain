@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**murariguragain/murariguragain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Data-Analytics
+# 👋 Hi, I'm Murari Guragain
 
-Here are some ideas to get you started:
+🎓 Data Analytics Engineering Graduate from Northeastern University  
+📊 I love turning data into insights and helping organizations make data-driven decisions.  
+🧠 Interests: Machine Learning, Time Series, NLP, Healthcare Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- **Languages:** Python, SQL, Java
+- **Tools:**  Power BI, Excel, Git
+- **Libraries:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib
+- **Databases:** MySQL, PostgreSQL
+
+### 📈 Projects
+- **[Suicide Trend Analysis](https://github.com/murariguragain/suicide-trend-analysis)**  
+  Public health visualization and analysis using SafetyLit data
+
+- **[Clinical Trial Data Management of Breast Cancer Treatment](https://github.com/murariguragain/Clinical_trial_database)**  
+  Using MySQL database
+
+- **[Cancer Prediction](https://github.com/murariguragain/ThyroidCancerPrediction))**  
+  Machine Learning algorithms based model fro cancer prediction
+
+### 📬 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/murariguragain/)) | [Email](mailto:murariguragain@gmail.com)
