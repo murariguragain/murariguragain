@@ -17,7 +17,7 @@
 - **[Clinical Trial Data Management of Breast Cancer Treatment](https://github.com/murariguragain/Clinical_trial_database)**  
   Using MySQL database
 
-- **[Cancer Prediction](https://github.com/murariguragain/ThyroidCancerPrediction))**  
+- **[Cancer Prediction](https://github.com/murariguragain/ThyroidCancerPrediction)**  
   Machine Learning algorithms based model fro cancer prediction
 
 ### 📬 Let's Connect!
