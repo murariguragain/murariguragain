@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# Data-Analytics
 # 👋 Hi, I'm Murari Guragain
 
 🎓 Data Analytics Engineering Graduate from Northeastern University  
