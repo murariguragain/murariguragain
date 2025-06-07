@@ -21,4 +21,4 @@
   Machine Learning algorithms based model fro cancer prediction
 
 ### 📬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/murariguragain/)) | [Email]((https://mail.google.com/mail/u/0/?pli=1#inbox)
+[LinkedIn](https://www.linkedin.com/in/murariguragain/)) | [Email]((murariguragain@gmail.com)
