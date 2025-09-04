@@ -14,7 +14,7 @@
 - **[Suicide Trend Analysis](https://github.com/murariguragain/suicide-trend-analysis)**  
   Public health visualization and analysis using SafetyLit data
 
-- **[Clinical Trial Data Management of Breast Cancer Treatment](https://github.com/murariguragain/Clinical_trial_database)**  
+- **[Clinical Trial Data Management of Breast Cancer Treatment]((https://github.com/murariguragain/Breast-Cancer-Treatment))**  
   Using MySQL database
 
 - **[Cancer Prediction](https://github.com/murariguragain/ThyroidCancerPrediction)**  
