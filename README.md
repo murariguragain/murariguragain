@@ -20,8 +20,8 @@
 - **[Cancer Prediction](https://github.com/murariguragain/ThyroidCancerPrediction)**  
   Machine Learning algorithms based model for cancer prediction
 
-- **[AI for Symptom and Diagnosis Summarization](https://github.com/murariguragain/SympSummarize)**
-   Natural Language Processing based AI model to predict disease   
+- **[AI for Symptom and Diagnosis Summarization](https://github.com/murariguragain/SympSummarize)**    
+  Natural Language Processing based AI model to predict disease   
 
 ### 📬 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/murariguragain/) | 📬 Email me at: (murariguragain@gmail.com)
